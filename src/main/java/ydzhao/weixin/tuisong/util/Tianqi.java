@@ -11,8 +11,8 @@ import com.alibaba.fastjson.JSONObject;
  * @Date 2022/8/2 16:45
  */
 public class Tianqi {
-    private static String ak = "xxx";
-    private static String district_id = "320111";
+    private static String ak = "e7b20a1284af4dd28f6dc8f1d1da5100";
+    private static String district_id = "471000";
 
     public static JSONObject getNanjiTianqi() {
         String result = null;
